@@ -1,0 +1,1 @@
+This papers architecture contains about 8 layers: 5 convolutional layers and 3 dense connected layers
